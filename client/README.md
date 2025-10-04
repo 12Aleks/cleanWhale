@@ -1,3 +1,5 @@
+# ⚠️ Note: The `.env` files in this repository were **intentionally added for testing purposes**.  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
