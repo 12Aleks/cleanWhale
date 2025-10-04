@@ -19,3 +19,5 @@ export const logout = async (): Promise<{ message: string }> => {
     Cookies.remove('accessToken');
     return res.data;
 };
+
+
